@@ -1,6 +1,6 @@
 # Jorge Figueroa Soto 👨‍💻
 
-## About me
+## About me 👋
 
 Greetings! I am Jorge Figueroa, a passionate **software engineer and computer scientist** graduated from [Pontificia Universidad Javeriana Cali](https://www.javerianacali.edu.co/programas/carreras/ingenieria-de-sistemas-y-computacion). I strongly believe that any knowledge can be acquired with time and a proper approach. Currently, I am focused on **test automation** and the application of **artificial intelligence** in this process. 🚀
 
